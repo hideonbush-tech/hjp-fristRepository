@@ -1,2 +1,3 @@
 # hjp-fristRepository
-Frist Repository
+第一存储库
+第一次尝试
